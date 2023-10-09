@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/🖥️ HOME - Informática UNEG 🖥️.md",
+                "file": "universidad/Tareas.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universidad/🖥️ HOME - Informática UNEG 🖥️.md",
+                "file": "universidad/Tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "universidad/🖥️ HOME - Informática UNEG 🖥️.md",
+                "file": "universidad/Tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universidad/🖥️ HOME - Informática UNEG 🖥️.md"
+                "file": "universidad/Tareas.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "565cdcedc3f5fe6f",
   "lastOpenFiles": [
-    "universidad/Tareas.md",
     "universidad/🖥️ HOME - Informática UNEG 🖥️.md",
     "universidad/💯 Calificaciones Informática 😩.md",
+    "universidad/Tareas.md",
     "Calificaciones Informática.md",
     "multimedia/Pasted image 20231008230234.png",
     "notas.md",
