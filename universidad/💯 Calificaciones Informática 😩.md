@@ -17,6 +17,7 @@ Largest Column: standard
 - [[#Lapso 2021-02]]
 - [[#Lapso 2022-02]]
 - [[#Lapso 2022-01]]
+- [[#Lapso 2023-02]]
 - [[#Lapso 2023-01]]
 
 === end-column ===
@@ -74,7 +75,7 @@ Largest Column: standard
 | Técnicas De Programación II     | 6            |
 
 ---
-## Lapso 2023-01  
+## Lapso 2023-02  
 [[#Indice | Inicio 🔝]] 
 
 | ASIGNATURA                     | CALIFICACIÓN |
@@ -84,6 +85,14 @@ Largest Column: standard
 | Técnicas De Programación III   | 10           |
 | Circuitos Y Sistemas Digitales | 6            |
 | Laboratorio De Física II       | 6            |
+
+---
+## Lapso 2023-01  
+[[#Indice | Inicio 🔝]] 
+
+| ASIGNATURA | CALIFICACIÓN |
+|:---------- |:------------ |
+|            |              |
 
 ---
 ## CIVA 2023 
