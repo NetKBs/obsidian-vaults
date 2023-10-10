@@ -1,0 +1,5 @@
+- [ ] Hacer la plantilla de materias
+- [ ] Cepillarse njda
+- [ ] Hacer la nota de tareas
+- [ ] Estudiar estadistica 1
+- [ ] Pagar la inscripción
