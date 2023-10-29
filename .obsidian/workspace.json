@@ -4,42 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "689ee98202c5e755",
+        "id": "37e213b05e09e4cb",
         "type": "tabs",
         "children": [
           {
-            "id": "caac238506d2f227",
+            "id": "388bcf6b7f998463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/etapas/5ta/5️⃣ 5ta Etapa.md",
+                "file": "universidad/etapas/5ta/Repaso Estadística 1.md",
                 "mode": "preview",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "e8beeaba4f98d37d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "universidad/etapas/5ta/5️⃣ 5ta Etapa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7684682e5482107a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Materia.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universidad/etapas/5ta/5️⃣ 5ta Etapa.md",
+                "file": "universidad/etapas/5ta/Repaso Estadística 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "universidad/etapas/5ta/5️⃣ 5ta Etapa.md",
+                "file": "universidad/etapas/5ta/Repaso Estadística 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universidad/etapas/5ta/5️⃣ 5ta Etapa.md"
+                "file": "universidad/etapas/5ta/Repaso Estadística 1.md"
               }
             }
           },
@@ -161,11 +137,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,40 +156,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "caac238506d2f227",
+  "active": "75b1f7c30817a3e4",
   "lastOpenFiles": [
-    "universidad/✅ Tareas ✅.md",
-    "universidad/etapas/5ta/5️⃣ 5ta Etapa.md",
-    "templates/Materia.md",
+    "multimedia/Pasted image 20231028202622.png",
+    "multimedia/Pasted image 20231028202248.png",
+    "multimedia/Pasted image 20231028200727.png",
+    "multimedia/Pasted image 20231025162459.png",
+    "multimedia/Pasted image 20231025143626.png",
     "universidad/etapas/5ta/Estadística II.md",
+    "universidad/etapas/5ta/Repaso Estadística 1.md",
+    "Pasted image 20231025162435.png",
+    "Pasted image 20231025145150.png",
+    "Pasted image 20231028202622.png",
+    "Pasted image 20231028202248.png",
+    "Pasted image 20231028200727.png",
+    "universidad/etapas/5ta/5️⃣ 5ta Etapa.md",
+    "universidad/🖥️ HOME - Informática UNEG 🖥️.md",
+    "universidad/✅ Tareas ✅.md",
+    "templates/Materia.md",
+    "universidad/profesores/Salomon Lopez Liliana Maria.md",
+    "universidad/💯 Calificaciones Informática 😩.md",
+    "universidad/etapas/5ta/Arquitectura Del Computador.md",
+    "universidad/etapas/5ta/Cálculo Numérico.md",
+    "Pasted image 20231025162459.png",
+    "Untitled.md",
+    "universidad/etapas/5ta/Finanzas Para Ingenieros.md",
+    "universidad/profesores/Félix Contreras.md",
+    "universidad/etapas/5ta/Estructura De Datos.md",
+    "universidad/etapas/5ta/Algebra De Estructuras.md",
+    "universidad/profesores/Jaime Llorente.md",
+    "universidad/profesores/Yolimar Carolina Medina Toro.md",
+    "universidad/profesores/Saraullo Margutti Marco A.md",
+    "universidad/profesores/Abaffy Acosta Carlos Gustavo.md",
     "2023-10-11.md",
     "2023-10-10.md",
     "templates/Profesor.md",
     "events/2023-10-12 Hacer algo.md",
     "events",
-    "universidad/💯 Calificaciones Informática 😩.md",
-    "universidad/🖥️ HOME - Informática UNEG 🖥️.md",
     "universidad/profesores",
-    "multimedia/Pasted image 20231010124724.png",
     "Cosas por hacer.md",
     "multimedia/cronograma_5etapa.pdf",
     "multimedia/lu206466zohr.tmp",
-    "universidad/etapas/5ta/Estructura De Datos.md",
     "universidad/etapas/5ta/i.md",
     "universidad/etapas/5ta/estructuras-de-datos",
-    "universidad/etapas/algo.md",
-    "Calificaciones Informática.md",
-    "multimedia/Pasted image 20231008230234.png",
-    "notas.md",
     "templates",
     "universidad/etapas/5ta",
     "universidad/etapas",
     "universidad",
-    "multimedia/Pasted image 20231008192120.png",
     "multimedia",
-    "2023-10-08.md",
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2023-10-08 12.29.47.excalidraw.md",
-    "README.md"
+    "Untitled.canvas"
   ]
 }
