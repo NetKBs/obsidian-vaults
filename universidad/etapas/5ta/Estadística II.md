@@ -11,16 +11,16 @@ email: [lsalomonuneg@gmail.com](mailto:lsalomonuneg@gmail.com)
 
 # Tareas 
 #tarea #5Etapa #E2
-
-- [ ] Exposicion 📅 2023-10-29 
-- [ ] Examen 📅 2023-10-26 
-- [ ] comer 📅 2023-10-31 
+- [ ]  [[Realizar Las Tareas Del PDF Diseño Muestrales]] 📅 2023-11-07 ⏫ 
+- [ ] [[Practicar Y Realizar El Cuestionario De Muestreo]] ⏫ 
 
 # Temas
 - [[Repaso Estadística 1]]
-- Tema 1 : Caperucita roja
-	- por qué es roja?
-	- Demasiado estúpida wtfff
-	- el lobo ☠️
-- Tema 2 : Ola 
-	- Chao
+- Tema 1 : 
+
+
+# Plan De Evaluación Y Temas
+
+- Semana 3: Actividad grupal 5% (5/100). Grupo Max 4
+
+![[Programa de Evaluación Estadística II_Semestre 2023-02.pdf]]

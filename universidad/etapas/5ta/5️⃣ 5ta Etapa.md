@@ -11,7 +11,7 @@ Lapso: [[💯 Calificaciones Informática 😩#Lapso 2023-01| 2023-01]]
 
 ---
 
-=== multi-column-start: ID_tq64
+=== multi-column-start: ID_tq649
 ```column-settings
 Number of Columns: 1
 Largest Column: full
@@ -29,7 +29,6 @@ Largest Column: full
 
 
 === multi-column-end
-
 
 ---
 

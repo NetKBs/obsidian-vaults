@@ -12,14 +12,13 @@ email: [marcosaraullo@gmail.com](mailto:marcosaraullo@gmail.com)
 # Tareas 
 #tarea #5Etapa #ADC
 
-- [ ] Estudiar la historia dle computador
-- [ ] Investigar que es no sé que 
 
 # Temas
+- **Anexos**
+	- [[Anexo 1- UCP Computador Basico.pdf]]
+	-  [[Anexo 2- UCP para Modos direccionamiento.pdf]]
+	- [[Anexo 3- Repertorio de Instrucciones del Z80.pdf]]
 
-- Tema 1 : Caperucita roja
-	- por qué es roja?
-	- Demasiado estúpida wtfff
-	- el lobo ☠️
-- Tema 2 : Ola 
-	- Chao
+# Plan De Evaluación Y Temas
+
+![[Contenido y Plan de Evaluaciones Arquitectura Del COmputador.pdf]]

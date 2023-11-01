@@ -4,18 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "37e213b05e09e4cb",
+        "id": "83c6aa936b2ba042",
         "type": "tabs",
         "children": [
           {
-            "id": "388bcf6b7f998463",
+            "id": "99e0321504991603",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/etapas/5ta/Repaso Estadística 1.md",
-                "mode": "preview",
-                "source": true
+                "file": "universidad/etapas/5ta/algebra de estructuras/Línea De Tiempo Del Algebra De Estructura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7adc6807ab9fc700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "universidad/etapas/5ta/Finanzas Para Ingenieros.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universidad/etapas/5ta/Repaso Estadística 1.md",
+                "file": "universidad/etapas/5ta/algebra de estructuras/Línea De Tiempo Del Algebra De Estructura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "universidad/etapas/5ta/Repaso Estadística 1.md",
+                "file": "universidad/etapas/5ta/algebra de estructuras/Línea De Tiempo Del Algebra De Estructura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universidad/etapas/5ta/Repaso Estadística 1.md"
+                "file": "universidad/etapas/5ta/algebra de estructuras/Línea De Tiempo Del Algebra De Estructura.md"
               }
             }
           },
@@ -156,54 +168,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75b1f7c30817a3e4",
+  "active": "99e0321504991603",
   "lastOpenFiles": [
+    "universidad/✅ Tareas ✅.md",
+    "universidad/etapas/5ta/Arquitectura Del Computador.md",
+    "universidad/etapas/5ta/arquitectura del computador/Anexo 1- UCP Computador Basico.pdf",
+    "universidad/etapas/5ta/Finanzas Para Ingenieros.md",
+    "universidad/etapas/5ta/Finanzas/Unidad I Fundamentos De Finanzas.md",
+    "universidad/etapas/5ta/Finanzas/Cuestionar y Proponer la Actividad N1 De Debate.md",
+    "universidad/etapas/5ta/algebra de estructuras/Línea De Tiempo Del Algebra De Estructura.md",
+    "universidad/etapas/5ta/Algebra De Estructuras.md",
+    "Cuestionar y Proponer la Actividad N1 De Debate.md",
+    "universidad/etapas/5ta/estadistica 2/Realizar Las Tareas Del PDF Diseño Muestrales.md",
+    "universidad/etapas/5ta/estadistica 2/Practicar Y Realizar El Cuestionario De Muestreo.md",
+    "Unidad I Fundamentos De Finanzas.md",
+    "universidad/etapas/5ta/Finanzas/ACTIVIDAD INTRODUCTORIA.pdf",
+    "universidad/etapas/5ta/Finanzas/UNIDAD I FUNDAMENTOS DE FINANZAS 2020-I.pdf",
+    "universidad/etapas/5ta/5️⃣ 5ta Etapa.md",
+    "universidad/🖥️ HOME - Informática UNEG 🖥️.md",
+    "universidad/etapas/5ta/Finanzas/Gmail - FINANZAS PARA INGENIEROS - COMUNICACIÓN.pdf",
+    "universidad/etapas/5ta/Finanzas",
+    "universidad/etapas/5ta/arquitectura del computador/photo_1_2023-11-01_14-00-14.jpg",
+    "universidad/etapas/5ta/arquitectura del computador/Contenido y Plan de Evaluaciones Arquitectura Del COmputador.pdf",
+    "universidad/etapas/5ta/arquitectura del computador/Anexo 3- Repertorio de Instrucciones del Z80.pdf",
+    "universidad/etapas/5ta/arquitectura del computador/Anexo 2- UCP para Modos direccionamiento.pdf",
+    "universidad/etapas/5ta/arquitectura del computador",
+    "universidad/etapas/5ta/Estructura De Datos.md",
+    "universidad/etapas/5ta/Cálculo Numérico.md",
+    "universidad/etapas/5ta/Estadística II.md",
+    "Practicar Y Realizar El Cuestionario De Muestreo.md",
+    "Realizar Las Tareas Del PDF Diseño Muestrales.md",
+    "universidad/etapas/5ta/estadistica 2/Tabla de números aleatorios 2023_01.pdf",
+    "universidad/etapas/5ta/algebra de estructuras/Informe Escrito Teoría De Conjuntos, Relaciones Binarias.... Etc.md",
+    "Línea De Tiempo Del Algebra De Estructura.md",
+    "Informe Escrito Teoría De Conjuntos, Relaciones Binarias.... Etc.md",
+    "Pasted image 20231101121426.png",
+    "Untitled.md",
+    "universidad/etapas/5ta/Repaso Estadística 1.md",
     "multimedia/Pasted image 20231028202622.png",
     "multimedia/Pasted image 20231028202248.png",
     "multimedia/Pasted image 20231028200727.png",
     "multimedia/Pasted image 20231025162459.png",
     "multimedia/Pasted image 20231025143626.png",
-    "universidad/etapas/5ta/Estadística II.md",
-    "universidad/etapas/5ta/Repaso Estadística 1.md",
     "Pasted image 20231025162435.png",
     "Pasted image 20231025145150.png",
     "Pasted image 20231028202622.png",
-    "Pasted image 20231028202248.png",
-    "Pasted image 20231028200727.png",
-    "universidad/etapas/5ta/5️⃣ 5ta Etapa.md",
-    "universidad/🖥️ HOME - Informática UNEG 🖥️.md",
-    "universidad/✅ Tareas ✅.md",
     "templates/Materia.md",
     "universidad/profesores/Salomon Lopez Liliana Maria.md",
-    "universidad/💯 Calificaciones Informática 😩.md",
-    "universidad/etapas/5ta/Arquitectura Del Computador.md",
-    "universidad/etapas/5ta/Cálculo Numérico.md",
-    "Pasted image 20231025162459.png",
-    "Untitled.md",
-    "universidad/etapas/5ta/Finanzas Para Ingenieros.md",
-    "universidad/profesores/Félix Contreras.md",
-    "universidad/etapas/5ta/Estructura De Datos.md",
-    "universidad/etapas/5ta/Algebra De Estructuras.md",
-    "universidad/profesores/Jaime Llorente.md",
-    "universidad/profesores/Yolimar Carolina Medina Toro.md",
-    "universidad/profesores/Saraullo Margutti Marco A.md",
-    "universidad/profesores/Abaffy Acosta Carlos Gustavo.md",
-    "2023-10-11.md",
-    "2023-10-10.md",
-    "templates/Profesor.md",
-    "events/2023-10-12 Hacer algo.md",
-    "events",
-    "universidad/profesores",
-    "Cosas por hacer.md",
-    "multimedia/cronograma_5etapa.pdf",
-    "multimedia/lu206466zohr.tmp",
-    "universidad/etapas/5ta/i.md",
-    "universidad/etapas/5ta/estructuras-de-datos",
-    "templates",
-    "universidad/etapas/5ta",
-    "universidad/etapas",
-    "universidad",
-    "multimedia",
     "Untitled.canvas"
   ]
 }

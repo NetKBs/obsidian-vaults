@@ -12,8 +12,6 @@ email: [yolimedina1985@gmail.com](mailto:yolimedina1985@gmail.com)
 # Tareas 
 #tarea #5Etapa #CN
 
-- [ ] Formulas investigar
-
 # Temas
 
 - Tema 1 : Caperucita roja
