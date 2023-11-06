@@ -8,30 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99e0321504991603",
+            "id": "5f1ba6d5e52bd2b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/etapas/5ta/algebra de estructuras/Línea De Tiempo Del Algebra De Estructura.md",
-                "mode": "source",
+                "file": "Unidad 1 Estadistica Inferencial Y Muestreo.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "7adc6807ab9fc700",
+            "id": "2939962c8980629d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/etapas/5ta/Finanzas Para Ingenieros.md",
+                "file": "universidad/etapas/5ta/Estadística II.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28808a2bc1a9ee9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proceso De Muestro - Métodos De Muestreo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 202.5,
+    "collapsed": true
   },
   "right": {
     "id": "2d6a4457b376f6bf",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universidad/etapas/5ta/algebra de estructuras/Línea De Tiempo Del Algebra De Estructura.md",
+                "file": "universidad/etapas/5ta/Estadística II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "universidad/etapas/5ta/algebra de estructuras/Línea De Tiempo Del Algebra De Estructura.md",
+                "file": "universidad/etapas/5ta/Estadística II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universidad/etapas/5ta/algebra de estructuras/Línea De Tiempo Del Algebra De Estructura.md"
+                "file": "universidad/etapas/5ta/Estadística II.md"
               }
             }
           },
@@ -168,53 +182,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99e0321504991603",
+  "active": "2939962c8980629d",
   "lastOpenFiles": [
+    "universidad/etapas/5ta/estadistica 2/Repaso Estadística 1.md",
+    "Unidad 1 Estadistica Inferencial Y Muestreo.md",
+    "universidad/etapas/5ta/Estadística II.md",
+    "Proceso De Muestro - Métodos De Muestreo.md",
+    "Pasted image 20231105154027.png",
+    "Pasted image 20231105150004.png",
+    "Pasted image 20231105135049.png",
+    "Pasted image 20231105134949.png",
+    "Pasted image 20231105134927.png",
     "universidad/✅ Tareas ✅.md",
-    "universidad/etapas/5ta/Arquitectura Del Computador.md",
-    "universidad/etapas/5ta/arquitectura del computador/Anexo 1- UCP Computador Basico.pdf",
-    "universidad/etapas/5ta/Finanzas Para Ingenieros.md",
-    "universidad/etapas/5ta/Finanzas/Unidad I Fundamentos De Finanzas.md",
-    "universidad/etapas/5ta/Finanzas/Cuestionar y Proponer la Actividad N1 De Debate.md",
-    "universidad/etapas/5ta/algebra de estructuras/Línea De Tiempo Del Algebra De Estructura.md",
-    "universidad/etapas/5ta/Algebra De Estructuras.md",
-    "Cuestionar y Proponer la Actividad N1 De Debate.md",
-    "universidad/etapas/5ta/estadistica 2/Realizar Las Tareas Del PDF Diseño Muestrales.md",
+    "universidad/etapas/5ta/estadistica 2/Procedimientos de muestreo.pdf",
     "universidad/etapas/5ta/estadistica 2/Practicar Y Realizar El Cuestionario De Muestreo.md",
-    "Unidad I Fundamentos De Finanzas.md",
-    "universidad/etapas/5ta/Finanzas/ACTIVIDAD INTRODUCTORIA.pdf",
-    "universidad/etapas/5ta/Finanzas/UNIDAD I FUNDAMENTOS DE FINANZAS 2020-I.pdf",
-    "universidad/etapas/5ta/5️⃣ 5ta Etapa.md",
+    "universidad/etapas/5ta/estadistica 2/Realizar Las Tareas Del PDF Diseño Muestrales.md",
+    "universidad/etapas/5ta/Algebra De Estructuras.md",
+    "universidad/etapas/5ta/Finanzas/Procedimientos de muestreo.pdf",
+    "universidad/etapas/5ta/algebra de estructuras/Tareas/Actividad 2 - Informe Critico - Abiham Ramos V30735535.pdf",
+    "universidad/etapas/5ta/algebra de estructuras/Tareas/Informe Critico.odt",
+    "universidad/etapas/5ta/algebra de estructuras/Tareas",
+    "Tareas Historial ADE.md",
+    "universidad/etapas/5ta/algebra de estructuras/Línea De Tiempo Del Algebra De Estructura.md",
+    "universidad/etapas/5ta/Finanzas Para Ingenieros.md",
+    "universidad/etapas/5ta/algebra de estructuras/lu226167y5a8.tmp",
+    "universidad/etapas/5ta/algebra de estructuras/lu226167y59z.tmp",
     "universidad/🖥️ HOME - Informática UNEG 🖥️.md",
-    "universidad/etapas/5ta/Finanzas/Gmail - FINANZAS PARA INGENIEROS - COMUNICACIÓN.pdf",
-    "universidad/etapas/5ta/Finanzas",
+    "universidad/etapas/5ta/Finanzas/Unidad I Fundamentos De Finanzas.md",
+    "universidad/etapas/5ta/5️⃣ 5ta Etapa.md",
+    "universidad/etapas/5ta/algebra de estructuras/Informe Escrito Teoría De Conjuntos, Relaciones Binarias.... Etc.md",
+    "universidad/etapas/5ta/algebra de estructuras/lu226167y4si.tmp",
+    "universidad/etapas/5ta/algebra de estructuras/lu44444c7yg.tmp",
+    "universidad/etapas/5ta/algebra de estructuras/lu44444c7wy.tmp",
+    "universidad/etapas/5ta/Arquitectura Del Computador.md",
+    "universidad/etapas/5ta/Finanzas/Cuestionar y Proponer la Actividad N1 De Debate.md",
+    "Cuestionar y Proponer la Actividad N1 De Debate.md",
+    "Unidad I Fundamentos De Finanzas.md",
     "universidad/etapas/5ta/arquitectura del computador/photo_1_2023-11-01_14-00-14.jpg",
-    "universidad/etapas/5ta/arquitectura del computador/Contenido y Plan de Evaluaciones Arquitectura Del COmputador.pdf",
-    "universidad/etapas/5ta/arquitectura del computador/Anexo 3- Repertorio de Instrucciones del Z80.pdf",
-    "universidad/etapas/5ta/arquitectura del computador/Anexo 2- UCP para Modos direccionamiento.pdf",
-    "universidad/etapas/5ta/arquitectura del computador",
     "universidad/etapas/5ta/Estructura De Datos.md",
     "universidad/etapas/5ta/Cálculo Numérico.md",
-    "universidad/etapas/5ta/Estadística II.md",
     "Practicar Y Realizar El Cuestionario De Muestreo.md",
     "Realizar Las Tareas Del PDF Diseño Muestrales.md",
-    "universidad/etapas/5ta/estadistica 2/Tabla de números aleatorios 2023_01.pdf",
-    "universidad/etapas/5ta/algebra de estructuras/Informe Escrito Teoría De Conjuntos, Relaciones Binarias.... Etc.md",
     "Línea De Tiempo Del Algebra De Estructura.md",
     "Informe Escrito Teoría De Conjuntos, Relaciones Binarias.... Etc.md",
     "Pasted image 20231101121426.png",
-    "Untitled.md",
-    "universidad/etapas/5ta/Repaso Estadística 1.md",
     "multimedia/Pasted image 20231028202622.png",
     "multimedia/Pasted image 20231028202248.png",
     "multimedia/Pasted image 20231028200727.png",
-    "multimedia/Pasted image 20231025162459.png",
-    "multimedia/Pasted image 20231025143626.png",
-    "Pasted image 20231025162435.png",
-    "Pasted image 20231025145150.png",
-    "Pasted image 20231028202622.png",
-    "templates/Materia.md",
-    "universidad/profesores/Salomon Lopez Liliana Maria.md",
     "Untitled.canvas"
   ]
 }

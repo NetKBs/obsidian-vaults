@@ -10,10 +10,12 @@ Profesor:: [[Jaime Llorente]]
 email: [jjllorente2012@hotmail.com](mailto:jjllorente2012@hotmail.com)
 
 # Tareas 
+<button style=""><p style="font-size:18px; margin: 0 10; ">  [[Tareas Historial ADE | Historial]]  </p> </button>
+
 #tarea #5Etapa #ADE
 
-- [ ] [[Línea De Tiempo Del Algebra De Estructura]] 📅 2023-11-04  ⏫ 
-- [ ] [[Informe Escrito Teoría De Conjuntos, Relaciones Binarias.... Etc]] 📅 2023-11-04  🔼 
+- [x] [[Línea De Tiempo Del Algebra De Estructura]] ⏫ 📅 2023-11-04 ✅ 2023-11-03
+- [x] [[Informe Escrito Teoría De Conjuntos, Relaciones Binarias.... Etc]] 🔼 📅 2023-11-04 ✅ 2023-11-03
 
 # Temas
 

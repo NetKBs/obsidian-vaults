@@ -25,6 +25,9 @@ Realizarlo en PowerPoint, en una sola lámina
 
 ---
 
+
+Brahmagupta 590-668: conocido por su trabajo en álgebra y por ser el primero en utilizar el cero como número independiente
+
 Juarismi 780-850: Escribió `el compendio de cálculo por completión y comparación` también conocido como el tratado del algebra
 
 Leonhard Euler 1707-1783: Resolvió el problema de los puentes de Konigsberg dando inicio a la teoría de grafos
@@ -39,10 +42,37 @@ George Cantor 1845-1918: Inventor junto a Dedekind y Frege de la teoría de conj
 
 Richard Dedekind 1831-1916: creador de la teoría de los ideales usada para los anillos algebraicos
 
-Brahmagupta: conocido por su trabjo en álgebra y por ser el primero en utilzar el cero como número independiente
 
 Emmy Noether 1882-1935: conocida por sus importantes contribuciones al algebra abstracta, la teoría de anillos, la teoría de invariantes y la física matematica
 
+- [**1948**: Garrett Birkhoff publica “Lattice Theory”, una obra fundamental en el campo del álgebra de estructuras](https://prezi.com/vfgaq0-hx5wi/algebra-a-timeline/) [1](https://prezi.com/vfgaq0-hx5wi/algebra-a-timeline/).
+- [**1950**: El álgebra de estructuras se desarrolla a partir del álgebra abstracta y la teoría de categorías](https://link.springer.com/book/10.1007/978-3-0348-7917-0) [2](https://link.springer.com/book/10.1007/978-3-0348-7917-0).
+- [**1955**: Alfred Tarski introduce el concepto de “álgebra universal”](https://shroudedscience.medium.com/the-history-of-algebra-its-complicated-5f806c60de9d) [3](https://shroudedscience.medium.com/the-history-of-algebra-its-complicated-5f806c60de9d).
+- [**1960**: Claude Chevalley desarrolla la teoría de grupos de Lie algebraicos](https://shroudedscience.medium.com/the-history-of-algebra-its-complicated-5f806c60de9d) [3](https://shroudedscience.medium.com/the-history-of-algebra-its-complicated-5f806c60de9d).
+- [**1963**: Saunders Mac Lane y Samuel Eilenberg publican “General Theory of Natural Equivalences”, un trabajo que establece las bases de la teoría de categorías](https://shroudedscience.medium.com/the-history-of-algebra-its-complicated-5f806c60de9d) [3](https://shroudedscience.medium.com/the-history-of-algebra-its-complicated-5f806c60de9d).
+- [**1972**: William Lawvere introduce el concepto de “topos”](https://shroudedscience.medium.com/the-history-of-algebra-its-complicated-5f806c60de9d) [3](https://shroudedscience.medium.com/the-history-of-algebra-its-complicated-5f806c60de9d).
+- [**1980**: El álgebra de estructuras se convierte en una herramienta fundamental en la teoría de la computación y la informática teórica](https://link.springer.com/book/10.1007/978-3-0348-7917-0) [2](https://link.springer.com/book/10.1007/978-3-0348-7917-0).
+- [**  
+    1985**: William Lawvere y Stephen Schanuel publican “Conceptual Mathematics: A First Introduction to Categories”, un libro que introduce la teoría de categorías a un público más amplio](https://academic.oup.com/philmat/article/14/3/287/1462575) [1](https://academic.oup.com/philmat/article/14/3/287/1462575).
+- [**1994**: Saunders Mac Lane y Ieke Moerdijk publican “Sheaves in Geometry and Logic: A First Introduction to Topos Theory”, una obra que establece las bases de la teoría de los topos](https://link.springer.com/book/10.1007/978-3-0348-7917-0) [2](https://link.springer.com/book/10.1007/978-3-0348-7917-0).
+- [**2006**: John Baez y Jacob Lurie publican “Higher Algebra”, un trabajo que introduce la teoría de las ∞-categorías](https://prezi.com/vfgaq0-hx5wi/algebra-a-timeline/) [3](https://prezi.com/vfgaq0-hx5wi/algebra-a-timeline/).
+- [**2014**: Jacob Lurie publica “Higher Topos Theory”, una obra que profundiza en la teoría de las ∞-categorías](https://shroudedscience.medium.com/the-history-of-algebra-its-complicated-5f806c60de9d) [4](https://shroudedscience.medium.com/the-history-of-algebra-its-complicated-5f806c60de9d).
 
+Aquí está el texto sin hipervínculos:
 
+- 1948: Garrett Birkhoff publica “Lattice Theory”, una obra fundamental en el campo del álgebra de estructuras.
+- 1950: El álgebra de estructuras se desarrolla a partir del álgebra abstracta y la teoría de categorías.
+- 1955: Alfred Tarski introduce el concepto de “álgebra universal”.
+- 1960: Claude Chevalley desarrolla la teoría de grupos de Lie algebraicos.
+- 1963: Saunders Mac Lane y Samuel Eilenberg publican “General Theory of Natural Equivalences”, un trabajo que establece las bases de la teoría de categorías.
+- 1972: William Lawvere introduce el concepto de “topos”.
+- 1980: El álgebra de estructuras se convierte en una herramienta fundamental en la teoría de la computación y la informática teórica.
+- 1985: William Lawvere y Stephen Schanuel publican “Conceptual Mathematics: A First Introduction to Categories”, un libro que introduce los conceptos básicos de la teoría de categorías.
+- **1994**: Saunders Mac Lane y Ieke Moerdijk publican “Sheaves in Geometry and Logic: A First Introduction to Topos Theory”, una obra que establece las bases de la teoría de los topos.
+- **2006**: John Baez y Jacob Lurie publican “Higher Algebra”, un trabajo que introduce la teoría de las ∞-categorías.
+- **2014**: Jacob Lurie publica “Higher Topos Theory”, una obra que profundiza en la teoría de las ∞-categorías.
 
+si tuviera que elegir los menos importantes, eliminaría los siguientes dos:
+
+- **1994**: Saunders Mac Lane y Ieke Moerdijk publican “Sheaves in Geometry and Logic: A First Introduction to Topos Theory”, una obra que establece las bases de la teoría de los topos.
+- **2006**: John Baez y Jacob Lurie publican “Higher Algebra”, un trabajo que introduce la teoría de las ∞-categorías.

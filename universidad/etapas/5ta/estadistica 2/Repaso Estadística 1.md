@@ -1,7 +1,7 @@
 
-<button><p style="font-size:18px; margin: 0 10; ">  🔙 [[Estadística II | Volver]] 🔙 </p> </button>
 
-
+[[Estadística II]]
+/[[Unidad 1 Estadistica Inferencial Y Muestreo  | Siguiente]]
 ## Indice
 - [[#Conceptos Básicos]]
 - [[#Distribución De Frecuencias]]
@@ -9,6 +9,7 @@
 - [[#Probabilidad (combinatoria)]]
 - [[#Medidas De Dispersión]]
 - [[#Desviación]]
+- [[#Escalas De Medición]]
 
 ## Conceptos Básicos
 - **Población:** Conjunto de individuos sobre la que se estudia una característica 
@@ -185,3 +186,21 @@ $$\sigma = \sqrt{ValorVarianza}$$
 **Respecto A La Media:** es la diferencia en valor absoluto entre cada valor de la variable y la media aritmética.
 
 **Desviación Media:** es el promedio de las desviaciones respecto de la media
+
+---
+## Escalas De Medición
+Las escalas de medición son los criterios que se usan para asignar valores a las variables, según sus propiedades y características. Las escalas de medición pueden ser de cuatro tipos: nominal, ordinal, de intervalo y de razón
+
+#### Variables Cualitativas
+**Nominal:** no tienen un orden natural, como el nombre, el país, el tipo de sangre, etc.  Solo permite clasificar los datos en categorías sin establecer una jerarquía entre ellas. *Ejemplo: el tipo de sangre de una muestra de personas, se puede usar una escala nominal para asignar un valor a cada categoría: A, B, AB, o O*
+
+**Ordinal:** permite ordenar los datos según una jerarquía, pero no indica la distancia o la diferente entre ellos. Por ejemplo, si se estudia a nivel de estudio de una muestra de personas, se puede usar la escala ordinal para asignar un valor a cada categoría: primaria, secundaria, universidad y postgrado
+ 
+#### Variables Cuantitativas
+**Razón:** se usa cuando hay un cero absoluto, que significa la ausencia total de lo que se mide. Por ejemplo, si se mide el peso de una persona, se puede usar la escala de razón, porque el cero significa que no hay peso. Se pueden hacer operaciones matemáticas (suma, resta, división y multiplicación), también comparar la proporción y la razón entre valoresx Ejemplo: si una persona pesa 80kg y otra 40kg, se puede decir que la primera pesa el doble que la segunda
+
+**Intervalo:** se usa cuando hay un cero relativo, que no significa la ausencia total de lo que se mide. Por ejemplo, si se mide la temperatura de una persona, se puede usar la escala de intervalo, porque el cero no significa que no hay temperatura. Con esta escala solo se puede sumar y restar. Tampoco se puede comprar la proporción y la razón entre valores
+
+---
+
+[[Unidad 1 Estadistica Inferencial Y Muestreo  | Siguiente]]

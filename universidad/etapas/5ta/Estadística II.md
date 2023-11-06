@@ -11,12 +11,18 @@ email: [lsalomonuneg@gmail.com](mailto:lsalomonuneg@gmail.com)
 
 # Tareas 
 #tarea #5Etapa #E2
-- [ ]  [[Realizar Las Tareas Del PDF Diseño Muestrales]] 📅 2023-11-07 ⏫ 
-- [ ] [[Practicar Y Realizar El Cuestionario De Muestreo]] ⏫ 
-
+- [ ] Estudiar Unidad 1    ⏫ 
+	- [ ]  Leer Y Realizar Las Tareas De [[Diseños Muestrales Tema 2.pdf]] 📅 2023-11-07 ⏫ 
+	- [ ] Leer el pdf [[Procedimientos de muestreo.pdf]] ⏫ 
+	- [ ] Realizar Cuestionario [[Unidad 1 Estadistica Inferencial Y Muestreo]] ⏫ 
+ 
 # Temas
 - [[Repaso Estadística 1]]
-- Tema 1 : 
+- [[Unidad 1 Estadistica Inferencial Y Muestreo | Unidad 1]]
+	- [[Proceso De Muestro - Métodos De Muestreo]] 
+
+# Material general
+Curso De Estadística Descriptiva SPSS (Hasta la sesión 4): https://youtu.be/_2hx54ABOLM?si=l8TIbkBFNhJW7IvM
 
 
 # Plan De Evaluación Y Temas

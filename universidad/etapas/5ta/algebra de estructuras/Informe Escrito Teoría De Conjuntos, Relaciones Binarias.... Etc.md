@@ -21,4 +21,4 @@ Realizar un informe crítico individual donde se refleje el análisis y la argum
 
 ## Notas
 
-No es necesario índice y nada de eso. Es un informe tipo ensayo. Lo que sí se deben colocar son las fuentes bibliográficas
+No es necesario índice y nada de eso. Es un informe tipo ensayo. Lo que sí se deben colocar son las fuentes bibliográficas. Máximo 4 hojas
